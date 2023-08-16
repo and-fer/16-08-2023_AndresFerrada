@@ -1,0 +1,27 @@
+ 6318  /Users/and/Desktop/16-08-2023_AndresFerrada
+ 6319  git init
+ 6320  git remote add origin https://github.com/and-fer/16-08-2023_AndresFerrada.git
+ 6321  git pull origin master
+ 6322  git pull origin main
+ 6323  touch main.js index.html
+ 6324  git add .
+ 6325  git commit -m "commit 01 de AndrésFerrada"
+ 6326  git push origin main
+ 6327  git switch -c feature
+ 6328  mkdir Hardware Software SeguridadInformatica
+ 6329  cd Hardware
+ 6330  touch resumen.txt
+ 6331  cd ..
+ 6332  cd SeguridadInformatica
+ 6333  resumen.txt
+ 6334  touch resumen.txt
+ 6335  cd ..
+ 6336  cd Software
+ 6337  touch resumen.txt
+ 6338  cd ..
+ 6339  git push origin feature
+ 6340  switch main
+ 6341  git switch main
+ 6342  mv main.js resumenHardware.txt
+ 6343  mv index.html resumenSoftware.txt
+ 6344  touch comandos.txt
